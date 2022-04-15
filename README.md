@@ -26,7 +26,7 @@ Forum app is capable of creating posts on the app which are stored using state v
 ### Link
 
 [Github Code](https://www.github.com/yash1699/forum-app)
-[Live Site URL](https://yash1699.github.io/forum-app)
+[Live Site URL](https://forum-project-app.web.app/)
 
 ## Development
 
